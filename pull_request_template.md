@@ -1,8 +1,4 @@
-# Description
-
-Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
-
-Fixes # (issue)
+# [Issues Title](https://link-to-issue)
 
 ## Type of change
 
@@ -13,23 +9,13 @@ Please delete options that are not relevant.
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation update
 
-# How Has This Been Tested?
+## Description
+> _What are we addressing and why?_
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+## Testing Notes & Results
+> _How did you confirm that the 'what' has been addressed?_
 
-- [ ] Test A
-- [ ] Test B
-
-**Test Configuration**:
-
-* Firmware version:
-* Hardware:
-* Toolchain:
-* SDK:
-
-# Tests:
-
-- [ ] Yes I added tests
+- [ ] Yes I added tests with change
 - [ ] No I didn't add tests and this is why:
 
 # Logs:
@@ -37,13 +23,6 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] Yes I added logs to my change
 - [ ] No I didn't add logs and this is why:
 
-# Checklist:
-
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
+## Are there any post deployment tasks we need to perform?
+- [ ] Yes, we need to: ***please replace this line with details on what remains to be done.***
+- [ ] No
